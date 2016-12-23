@@ -1,0 +1,28 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Topdown Kit\Script\Enemy\EnemyController.cs">
+    <Files>
+      <File FileName="Assets\Topdown Kit\Script\GUI\Minimap.cs" Line="1" Column="1" />
+      <File FileName="Assets\Topdown Kit\Script\Enemy\DropItem.cs" Line="1" Column="1" />
+      <File FileName="Assets\Topdown Kit\Script\Player\Controller\PlayerSkill.cs" Line="1" Column="1" />
+      <File FileName="Assets\Topdown Kit\Script\Player\Controller\PlayerStatus.cs" Line="1" Column="1" />
+      <File FileName="Assets\Topdown Kit\Script\Enemy\EnemyStatus.cs" Line="1" Column="1" />
+      <File FileName="Assets\Topdown Kit\Script\Enemy\EnemyController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Topdown Kit\Script\Player\Camera\MouseOrbit.cs" Line="1" Column="1" />
+      <File FileName="Assets\Topdown Kit\Script\Player\Controller\AnimationManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Water (Basic)\Sources\Scripts\WaterSimple.cs" Line="1" Column="1" />
+      <File FileName="Assets\Topdown Kit\Script\Player\Controller\AreaSkillCursor.cs" Line="1" Column="1" />
+      <File FileName="Assets\Topdown Kit\Script\Player\Camera\MinimapCamera.cs" Line="1" Column="1" />
+      <File FileName="Assets\Topdown Kit\Script\GUI\EnemyHP.cs" Line="1" Column="1" />
+      <File FileName="Assets\Topdown Kit\Script\SaveData\CharacterData.cs" Line="1" Column="1" />
+      <File FileName="Assets\Topdown Kit\Script\Misc\Spawner.cs" Line="1" Column="1" />
+      <File FileName="Assets\Topdown Kit\Script\GUI\BottomBar.cs" Line="1" Column="1" />
+      <File FileName="Assets\Topdown Kit\Script\GUI\HeroStatusBar.cs" Line="1" Column="1" />
+      <File FileName="Assets\Topdown Kit\Script\Misc\TextDamage.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
